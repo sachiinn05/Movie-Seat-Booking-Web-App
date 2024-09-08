@@ -1,10 +1,12 @@
 # [Movie-Seat-Booking-System -](https://movie-seat-booking-system.netlify.app/)
 
 Movie Seat Booking System
-Overview
+
+Overview:
 This project is a movie seat booking system that allows users to select seats for a movie, view movie details, and proceed with the booking. The application includes a seat map with available, selected, and occupied seats. Users can select seats, view the total price, and confirm their booking. The system also features a success modal that appears upon successful booking.
 
 Features
+
 Movie Selection: Choose a movie from a dropdown list.
 Seat Selection: Select available seats from a dynamic seat map.
 Booking Summary: View selected seats, total price, and movie details.
